@@ -85,8 +85,8 @@ DATABASES = {
 
 EMAIL_USE_TLS = True  
 EMAIL_HOST = 'smtp.gmail.com'  
-EMAIL_HOST_USER = 'anjanamenon200@gmail.com'  
-EMAIL_HOST_PASSWORD = 'anjana1617'  
+EMAIL_HOST_USER = 'anjanamenon203@gmail.com'  
+EMAIL_HOST_PASSWORD = 'anjana0'  
 EMAIL_PORT = 587  
 
 
